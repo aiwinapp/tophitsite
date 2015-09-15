@@ -1,0 +1,32 @@
+.line:after, .line:before { content: ''; display: inline-block; height: 1px; background: #939597; background: rgba(147, 149, 151, 0.44); border-bottom: 1px solid rgba(102, 105, 108, 0.44); width: 80px; vertical-align: middle; margin-left: 13px;margin-right: 13px; }
+
+#otziv-DIV_1 {
+  margin: 30px 0px 30px;
+}/*#otziv-DIV_1*/
+
+#otziv-IMG_4 {
+    float: left;
+    height: 63px;
+    width: 80px;
+    border-radius: 50px 50px 50px 50px;
+    margin: 0px 10px 0px 0px;
+}/*#otziv-IMG_4*/
+
+#otziv-DIV_5 {
+    color: rgb(21, 68, 118);
+    text-transform: uppercase;
+    border-top: 3px dotted rgb(21, 68, 118);
+    border-right: 0px none rgb(21, 68, 118);
+    border-bottom: 3px dotted rgb(21, 68, 118);
+    border-left: 0px none rgb(21, 68, 118);
+    font: italic 18px/17px serif, Arial;
+    overflow: hidden;
+    padding: 10px 5px;
+}/*#otziv-DIV_5*/
+
+#otziv-P_8 {
+	font: italic 16px/17px serif, Arial;
+	padding: 0;
+	margin-top: 16px;
+}/*#otziv-P_8*/
+

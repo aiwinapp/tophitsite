@@ -1,0 +1,40 @@
+application: tophit-976
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /
+  script: index.php
+
+- url: /mail.*
+  script: mail.php
+
+- url: /m.html.*
+  script: m.php
+
+- url: /index2.html.*
+  script: index2.html
+
+- url: /mf1.html.*
+  script: m-dzholi.html
+
+- url: /srv.php.*
+  script: srv.php
+
+- url: /dist
+  static_dir: dist
+
+- url: /form/css
+  static_dir: form/css
+
+- url: /form/img
+  static_dir: form/img
+
+- url: /form/index.php.*
+  script: form/index.php
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico

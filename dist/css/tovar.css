@@ -1,0 +1,210 @@
+
+/* Tovar */
+.error.red {margin-left: 11px;font: 13px/14px Arial;}
+#tovar-DIV_1{box-shadow:rgba(0, 0, 0, 0.341176) 0px 0px 28px 1px;box-sizing:border-box;color:rgb(39, 40, 44);width:320px;border:0px none rgb(39, 40, 44);border-radius:10px 10px 10px 10px;font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;margin:40px 0px 15px;background-color:#fff;}
+#tovar-DIV_2{border-radius: 10px 10px 10px 10px;background-position:-130px -20px;box-sizing:border-box;color:rgb(39, 40, 44);width:320px;background:rgb(255, 255, 255) none repeat scroll -130px -20px/570px padding-box border-box;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;outline:rgb(39, 40, 44) none 0px;}
+#tovar-DIV_6{height:265px;margin:0px 0px 10px;background-color:#000;}
+#tovar-DIV_7{background-position:-80px 50%;box-sizing:border-box;color:rgb(39, 40, 44);height:220px;width:320px;background:rgba(0, 0, 0, 0) none no-repeat scroll -80px 50%/134% padding-box border-box;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;outline:rgb(39, 40, 44) none 0px;}
+#tovar-FIGURE_8{box-sizing:border-box;color:rgb(39, 40, 44);height:214px;width:320px;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0px;outline:rgb(39, 40, 44) none 0px;  background-color: #fff;}
+#tovar-A_9, #tovar-A_12, #tovar-A_15, #tovar-A_18, #tovar-A_21{}
+#tovar-IMG_10{box-sizing:border-box;color:rgb(66, 139, 202);height:214px;vertical-align:middle;border:0px none rgb(66, 139, 202);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;outline:rgb(66, 139, 202) none 0px;margin: 0 auto;  display: block;}
+#tovar-FIGURE_11, #tovar-FIGURE_14, #tovar-FIGURE_17, #tovar-FIGURE_20{float:left;border:1px solid rgb(255, 255, 255);}
+#tovar-IMG_13, #tovar-IMG_16, #tovar-IMG_22, #tovar-IMG_19{width:75px;}
+#tovar-INPUT_23{background-position:13px 50%;box-shadow:rgb(196, 196, 196) 0px 0px 5px 0px inset;color:rgb(186, 2, 0);display:block;height:50px;width:300px;perspective-origin:150px 25px;transform-origin:150px 25px;background:rgb(255, 255, 255) url(/dist/img/icon-phone.png) no-repeat scroll 13px 50%/auto padding-box border-box;border:1px solid rgb(145, 145, 145);font:24px/34.2857170104981px 'PF Din Text Cond Pro Light';margin:0px 10px;outline:rgb(186, 2, 0) none 0px;padding:6px 12px 6px 45px;transition:border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;}
+#tovar-DIV_24{box-sizing:border-box;color:rgb(39, 40, 44);float:left;height:70px;width:175px;perspective-origin:87.5px 35px;transform-origin:87.5px 35px;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;margin:6px 0px 0px;outline:rgb(39, 40, 44) none 0px;}
+#tovar-BUTTON_25{color:rgb(255, 255, 255);cursor:pointer;height:60px;min-height:0px;width:170px;background:rgb(161, 41, 39) linear-gradient(rgb(255, 23, 19) 0%, rgb(101, 8, 3) 100%) repeat scroll 0% 0%/auto padding-box border-box;border:0px none rgb(255, 255, 255);border-radius:10px 10px 10px 10px;font:25px/35px Helvetica, Arial, sans-serif;margin:5px;padding:0px;}
+#tovar-DIV_26{box-sizing:border-box;color:rgb(39, 40, 44);width:320px;perspective-origin:160px 0px;transform-origin:160px 0px;background:rgb(255, 255, 255) none repeat scroll 0% 0%/auto padding-box border-box;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;outline:rgb(39, 40, 44) none 0px;}
+#tovar-DIV_27{color:rgb(208, 0, 0);float:left;text-decoration:line-through;margin:13px 0px 0px 10px;}
+#tovar-DIV_28{font:25px/35px Helvetica, Arial, sans-serif;margin:0px 0px 0px 10px;color:rgb(209, 18, 14);float:left;}
+#tovar-DIV_29{box-sizing:border-box;clear:both;color:rgb(39, 40, 44);width:320px;perspective-origin:160px 0px;transform-origin:160px 0px;border:0px none rgb(39, 40, 44);font:14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;outline:rgb(39, 40, 44) none 0px;}
+
+/* Otziv */
+.line:after, .line:before{content:'';display:inline-block;height:1px;background:#939597;background:rgba(147, 149, 151, 0.44);border-bottom:1px solid rgba(102, 105, 108, 0.44);width:80px;vertical-align:middle;margin-left:13px;margin-right:13px;}
+#otziv-DIV_1{margin:30px 0px 30px;}
+#otziv-IMG_4{float:left;height:63px;width:80px;border-radius:50px 50px 50px 50px;margin:0px 10px 0px 0px;}
+#otziv-DIV_5{color:rgb(21, 68, 118);text-transform:uppercase;border-top:3px dotted rgb(21, 68, 118);border-right:0px none rgb(21, 68, 118);border-bottom:3px dotted rgb(21, 68, 118);border-left:0px none rgb(21, 68, 118);font:italic 18px/17px serif, Arial;overflow:hidden;padding:10px 5px;}
+#otziv-P_8{font:italic 16px/17px serif, Arial;padding:0;margin-top:16px;}
+
+/* Header */
+body{background-image:url(/dist/img/v2/bgpattern.png)}
+#header-DIV_2{text-align:center}
+#header-DIV_3{font:18px/23px 'PF Din Text Cond Pro Light';outline:#fff none 0;display:none;color:#000}
+#header-DIV_4{text-align: center;color: #fff; text-shadow: rgb(0, 0, 0) 1px 1px 2px, rgb(0, 0, 0) 0px 0px 10px;font:31px/28px 'PT Serif',serif, Arial;}
+#header-DIV_5{font:italic 14px/16px 'PT Serif',Arial,sans-serif;text-align:right;color:#000}
+.promo3-left div#header-DIV_4 {
+  text-align: right;
+  color: #000;
+  text-shadow: none;
+  font: 27px/28px 'PT Serif',serif, Arial;
+}
+
+/* Sprites */
+.sprite {
+    background-image: url(/dist/img/v2/thumb/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-alahComp3800 {
+    width: 320px;
+    height: 213px;
+    background-position: -5px -5px;
+}
+
+.sprite-alham453 {
+    width: 320px;
+    height: 213px;
+    background-position: -5px -228px;
+}
+
+.sprite-alkComp3800 {
+    width: 320px;
+    height: 213px;
+    background-position: -335px -5px;
+}
+
+.sprite-msm4 {
+    width: 320px;
+    height: 213px;
+    background-position: -335px -228px;
+}
+
+.sprite-shah354 {
+    width: 320px;
+    height: 213px;
+    background-position: -5px -451px;
+}
+
+
+
+
+/* small sprites */
+.small {
+    background-image: url(/dist/img/v2/small/spritesheet-small2.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.small-aabar {
+    width: 75px;
+    height: 50px;
+    background-position: -5px -5px;
+}
+
+.small-ah {
+    width: 75px;
+    height: 50px;
+    background-position: -90px -5px;
+}
+
+.small-ak {
+    width: 75px;
+    height: 50px;
+    background-position: -5px -65px;
+}
+
+.small-alahinfo800 {
+    width: 75px;
+    height: 50px;
+    background-position: -90px -65px;
+}
+
+.small-alhaminfo800 {
+    width: 75px;
+    height: 50px;
+    background-position: -5px -125px;
+}
+
+.small-alkursiinfo800 {
+    width: 75px;
+    height: 50px;
+    background-position: -90px -125px;
+}
+
+.small-brasletinfo8001-1 {
+    width: 75px;
+    height: 50px;
+    background-position: -5px -185px;
+}
+
+.small-complect8002 {
+    width: 75px;
+    height: 50px;
+    background-position: -90px -185px;
+}
+
+.small-msm6 {
+    width: 75px;
+    height: 50px;
+    background-position: -175px -5px;
+}
+
+.small-msmolitvoiinfo800 {
+    width: 75px;
+    height: 50px;
+    background-position: -175px -65px;
+}
+
+.small-passinfo3800 {
+    width: 75px;
+    height: 50px;
+    background-position: -175px -125px;
+}
+
+.small-shahadinfo800 {
+    width: 75px;
+    height: 50px;
+    background-position: -175px -185px;
+}
+
+
+
+/* Elements */
+
+.elements {
+    background-image: url(/dist/img/users/elements.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.elements-0 {
+    width: 130px;
+    height: 102px;
+    background-position: -32px -12px;
+}
+
+.elements-1 {
+    width: 130px;
+    height: 117px;
+    background-position: -32px -154px;
+}
+
+.elements-2 {
+    width: 80px;
+    height: 63px;
+    background-position: -2px -229px;
+}
+
+.elements-3 {
+    width: 130px;
+    height: 102px;
+    background-position: -32px -316px;
+}
+
+.elements-4 {
+    width: 80px;
+    height: 63px;
+    background-position: -2px -402px;
+}
+
+.elements-icon-phone {
+    width: 17px;
+    height: 17px;
+    background-position: -2px -469px;
+}
+
+.elements-komplekt {
+    width: 100px;
+    height: 100px;
+    background-position: -2px -490px;
+}

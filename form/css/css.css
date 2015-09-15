@@ -1,0 +1,166 @@
+
+#callFORM_2 {
+    width: 100%;
+/*     padding: 17px; */
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0) url(../img/point-bgr.png) repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 15px 15px 15px 15px;
+}/*#callFORM_2*/
+
+#callDIV_4 {
+    box-sizing: border-box;
+    font: 14px / 20px 'PF Din Text Cond Pro Light';
+    text-align: center;
+    /* margin: 10px 0px; */
+/*     padding: 0px 10px; */
+}/*#callDIV_4*/
+
+#callDIV_5 {
+    /* box-sizing: border-box; */
+    /* height: 47px; */
+    /* margin: 0 auto; */
+    /* width: 100%; */
+    /* perspective-origin: 150px 23.5px; */
+    /* transform-origin: 150px 23.5px; */
+    /* font: normal 14px / 20px 'PF Din Text Cond Pro Light'; */
+    margin: 0px 0px 15px;
+}/*#callDIV_5*/
+
+#callINPUT_6 {
+    /* background-position: 13px 50%; */
+    box-shadow: rgb(196, 196, 196) 0px 0px 5px 0px inset;
+    color: rgb(85, 85, 85);
+    /* display: block; */
+    height: 37px;
+    float: left;
+    margin-bottom: 10px;
+    width: 80%;
+    /* perspective-origin: 150px 23.5px; */
+    /* transform-origin: 150px 23.5px; */
+    background: rgb(255, 255, 255) url(../img/icon-phone.png) no-repeat scroll 13px 50% / auto padding-box border-box;
+    border: 1px solid rgb(145, 145, 145);
+    font: 21px / 30px 'PF Din Text Cond Pro Light';
+    /* outline: rgb(85, 85, 85) none 0px; */
+    padding: 6px 12px 6px 45px;
+    /* transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; */
+}/*#callINPUT_6*/
+
+#callSELECT_7 {
+    box-shadow: rgba(0, 0, 0, 0.168627) 0px 1px 1px 0px inset;
+    display: none;
+    height: 30px;
+    min-height: 15px;
+    width: 100%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 1px solid rgb(166, 166, 166);
+    border-radius: 5px 5px 5px 5px;
+    font: normal 16px / normal 'PF Din Text Cond Pro Light';
+    margin: 0px 0px 10px;
+}/*#callSELECT_7*/
+
+#callOPTION_8, #callOPTION_9 {
+    box-sizing: border-box;
+    height: auto;
+    min-height: 19.2px;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal 16px / normal Times;
+}/*#callOPTION_8, #callOPTION_9*/
+
+#callOPTION_10 {
+    box-sizing: border-box;
+    height: auto;
+    min-height: 19.2px;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal 16px / normal Times;
+}/*#callOPTION_10*/
+
+#callDIV_11 {
+    box-sizing: border-box;
+    display: none;
+    height: auto;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+    margin: 10px 0px;
+    padding: 0px 10px;
+}/*#callDIV_11*/
+
+#callB_12 {
+    box-sizing: border-box;
+    color: rgb(222, 10, 33);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(222, 10, 33);
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+    outline: rgb(222, 10, 33) none 0px;
+}/*#callB_12*/
+
+#callSPAN_13 {
+    box-sizing: border-box;
+    color: rgb(222, 10, 33);
+    text-decoration: line-through;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(222, 10, 33);
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+    outline: rgb(222, 10, 33) none 0px;
+}/*#callSPAN_13*/
+
+#callBR_14 {
+    box-sizing: border-box;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+}/*#callBR_14*/
+
+#callI_15 {
+    box-sizing: border-box;
+    display: none;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+}/*#callI_15*/
+
+#callB_16 {
+    box-sizing: border-box;
+    color: rgb(222, 10, 33);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(222, 10, 33);
+    font: normal 18px / 25.7143px 'PF Din Text Cond Pro Light';
+    outline: rgb(222, 10, 33) none 0px;
+}/*#callB_16*/
+
+#callBUTTON_17 {
+    height: 51px;
+    margin: 0 auto;
+    width: 217px;
+    background: rgba(0, 0, 0, 0) url(/form/img/zakazat.png) no-repeat;
+    border: 0px none rgb(255, 255, 255);
+    /* font: normal 28px / 40px 'PF Din Text Cond Pro Light'; */
+    /* outline: rgb(255, 255, 255) none 0px; */
+}/*#callBUTTON_17*/
+
+#callIMG_18 {
+    bottom: -2px;
+    box-sizing: border-box;
+    display: block;
+    height: 31px;
+    left: -95px;
+    position: absolute;
+    vertical-align: middle;
+    width: 123px;
+    z-index: 0;
+    align-self: stretch;
+    perspective-origin: 61.5px 15.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    transform-origin: 61.5px 15.5px;
+    font: 14px / 20px 'PF Din Text Cond Pro Light';
+}/*#callIMG_18*/
+
